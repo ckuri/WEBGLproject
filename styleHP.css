@@ -1,3 +1,15 @@
+a:link {
+    color: azure;
+}
+
+a:visited {
+    color: azure;
+}
+
+a:hover {
+    color: rgb(127, 197, 255);
+}
+
 #pic {
     margin-top: 50px;
     width: 150px;
